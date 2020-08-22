@@ -1,5 +1,5 @@
 # adventureGame
-This is the well known game that was built in the 1980s. I built it in Java using the Collections framwork and using Maps and hashmaps. 
+This is the well known game that was built in the 1980s. I built it in Java using the Collections framwork, Maps and hashmaps. 
 
 <h1>How to Play </h1> 
 <ul> 
